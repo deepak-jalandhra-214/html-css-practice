@@ -1,0 +1,22 @@
+*{
+    color:black
+}
+h1{
+    color:rgb(0, 0, 0)
+}
+body{
+    background-color:rgb(214, 218, 179)
+}
+#d1{
+    color:rgb(0, 0, 0)
+
+}
+#d2{
+    color:rgb(0, 0, 0)
+}
+.d3{
+    color:rgb(160, 47, 47)
+}
+button{
+    background-color: beige;
+}
