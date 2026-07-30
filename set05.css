@@ -1,0 +1,21 @@
+h1{
+    text-align:center;
+    text-transform:uppercase;
+}
+
+p{
+    text-align:start;
+    text-transform:capitalize;
+    color: #fffefe;
+
+}
+body{
+    background-color: #000000;
+    color: #fd1c1c;
+}
+#outer{
+    font-size:25px;
+}
+#inner{
+    font-size:10px;
+}
