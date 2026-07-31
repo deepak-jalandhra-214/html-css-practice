@@ -1,0 +1,41 @@
+*{
+    padding:0;
+    margin:0;
+    color:white;
+}
+#navbar{
+    background-color: black;
+    height:60px;
+}
+#logo{
+    color: orange;
+    font-size: 30px;
+    padding-left: 0%;
+}
+button{
+    background-color: orange;
+    color:white;
+    
+    
+
+
+}
+input{
+    background-color: white;
+    color:black
+    
+}
+a{
+    margin-right:200px;
+    font-weight: bold;
+    text-decoration: none;
+}
+body{
+    
+    background-color: rgb(215, 197, 165);
+}
+div{
+    text-decoration: none;
+}
+
+
