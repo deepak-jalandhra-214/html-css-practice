@@ -22,7 +22,8 @@ button{
 }
 input{
     background-color: white;
-    color:black
+    color:black;
+    
     
 }
 a{
@@ -37,5 +38,9 @@ body{
 div{
     text-decoration: none;
 }
+.contact{
+    margin-right:150px;
+}
+
 
 
