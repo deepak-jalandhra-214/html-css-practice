@@ -1,4 +1,4 @@
-/* div{
+div{
     display:inline-block;
     background-color: aquamarine;
     height:200px;
@@ -27,14 +27,15 @@
     position:sticky;
     top:30px;
     background-image:url('/image/image 3.png');
-    background-size:cover; */
+    background-size:cover; 
+}
     
 
-/* body{
+body{
     background-image:url('/image/image 1.png');
     background-size:cover;
     
-} */
+}
  div{
     height:100px;
     width:100px;
@@ -42,5 +43,4 @@
     background-size:cover;
     position:fixed;
     right:0px;
-   
-    }
+   }
