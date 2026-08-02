@@ -1,0 +1,46 @@
+/* div{
+    display:inline-block;
+    background-color: aquamarine;
+    height:200px;
+    width:200px;
+    border:2px solid black;
+}
+.box1{
+   position:static;
+   top:30px;
+}
+.box2{
+    position:relative;
+    top:30px;
+}
+.box3{
+    position:absolute;
+    top:10px;
+    right:40px;
+   
+}
+.box4{
+    position:fixed;
+    bottom:20px
+}
+.box5{
+    position:sticky;
+    top:30px;
+    background-image:url('/image/image 3.png');
+    background-size:cover; */
+    
+
+/* body{
+    background-image:url('/image/image 1.png');
+    background-size:cover;
+    
+} */
+ div{
+    height:100px;
+    width:100px;
+    background-image:url('/image/image\ 3.png');
+    background-size:cover;
+    position:fixed;
+    right:0px;
+   
+    }
