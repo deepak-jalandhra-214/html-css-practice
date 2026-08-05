@@ -4,7 +4,7 @@
     background-color:blue;
     font-size: 20px; */
 
-}
+
 @media (width:700px){
     div{
         background-color:red;
@@ -17,8 +17,7 @@
 }
 @media (min-width:300px)and (max-width:600px){
     div{
-        color:rgb(186, 186, 192)
-        
+        color:rgb(186, 186, 192)  
     }
 }
 div{
@@ -36,24 +35,14 @@ div{
     transition:all  ease-in 1s;
     /* transform:rotate(360deg); */
     transform:translate(100px,100px);
-    
-    
-
-    
-
 }
 div:hover{
     background-color:orchid;
      /* scale:2;; */
      /* transform:rotate(360deg);
-     rotate:  y 360deg; */
-
-     
-
-    
+     rotate:  y 360deg; */   
 }
 div:active{
     background-image:url('/image/image 3.png');
-    background-size:cover;
-    
+    background-size:cover;  
 }
