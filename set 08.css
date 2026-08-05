@@ -1,8 +1,8 @@
-div{
+/* div{
     height:100px;
     width:100px;
     background-color:blue;
-    font-size: 20px;
+    font-size: 20px; */
 
 }
 @media (width:700px){
@@ -18,9 +18,10 @@ div{
 @media (min-width:300px)and (max-width:600px){
     div{
         color:rgb(186, 186, 192)
+        
     }
 }
-.box{
+div{
     height:100px;
     width:100px;
     background-color:yellow;
@@ -29,12 +30,30 @@ div{
     transition-duration:2s;
     transition-timing-function:ease-in;
     transition-delay:3s; */
-    transition:all 2s ease-in 3s;
+    position:absolute;
+    top:50px;
+    left:300px;
+    transition:all  ease-in 1s;
+    /* transform:rotate(360deg); */
+    transform:translate(100px,100px);
+    
+    
+
+    
+
 }
-.box:hover{
+div:hover{
     background-color:orchid;
+     /* scale:2;; */
+     /* transform:rotate(360deg);
+     rotate:  y 360deg; */
+
+     
+
+    
 }
-.box:active{
+div:active{
     background-image:url('/image/image 3.png');
     background-size:cover;
+    
 }
